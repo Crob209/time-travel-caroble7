@@ -2,3 +2,6 @@
 
 ## Layout
 This section sets up the structure of the magazine
+
+## Content
+Content, explores the imagaes and texts of what is being displayed
