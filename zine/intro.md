@@ -1,1 +1,1 @@
-There's a big conflict within the time-machine
+Theres a conflict in the time machine with big vs small wording. Resolve making it big or small
