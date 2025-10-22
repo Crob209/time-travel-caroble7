@@ -1,0 +1,1 @@
+Through this lab I learned how to use Git PRs, branches, tags etc as well as how to auhthorize my device to GitHub web. Some mistakes I fixed was a merge conflict and occasional typos to where it wouldnt run the command because of those typos. Lastly a command that really saved the day was the up arrow from since it saved me from having to retype everything.
