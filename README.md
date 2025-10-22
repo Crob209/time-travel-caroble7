@@ -1,1 +1,1 @@
-Learning git commands through this lab.
+I am learning git commands through this lab.
